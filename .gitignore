@@ -1,6 +1,7 @@
 *.class
 
 # Package Files #
+me.barwnikk.pluginfake.*.jar
 *.jar
 *.war
 *.ear
